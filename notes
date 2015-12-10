@@ -1,0 +1,36 @@
+
+Floats exercise
+1. add float right to test div 1 and 2 and they align horizontally next to each other on the grid.
+2. float the divs left causes them to stay aligned but move to the left side of the grid
+3. testdiv1 goes all the way to the right side of the grid and testdiv2 goes all the way to the left side of th grid
+4. both divs are on the right side of the grid but testdiv1 is so big that it pushes testdiv2 down under it
+5. 45 and 55
+6. they don't fit the screen
+7-11. I have to play with different number to get the columns to align correctly
+
+Lists exercise:
+Pt1
+1. this set changes the bullet point to a circle
+2. step 2 makes it en empty circle
+3. this changes the bullet shape to a square
+4. this step removes the bullets altogether
+5.this creates a border around the entire list
+6-8. changing the padding makes it wider or does the opposite when you increase or decrease the number
+Pt2
+1. This creates a black dashed border around each list item
+2. changing the padding increased the size of the dashed boxes around each list item
+3-4. this made the items more spread out on the grid
+5-7. changing the display changed the way the list items were listed (either vertically or diagonally)
+
+Position exercise:
+1. didnt see any changes
+2.this moved the testdiv over too the 100 on the ruler
+3. this moved it to the left for some reason even more?
+4. it is still on the left side of the grid
+5. this moved it slightly closer to the center but its still a little to the left. its also slightly lower than it was before.
+6-7. it moved over again im confused
+8. now it on the top of the screen overlapping the instructions
+9. its still at the top but now on the right side of the screen
+10.moved over slightly, still at the top of the screen
+11. ok now its down at the bottom, back in its grid. right side of the grid.
+12. the testdiv moved back over to the far left side of grid. 

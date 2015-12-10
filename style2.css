@@ -11,3 +11,37 @@
   padding: 1em;
   margin: 2em;
 }
+#list1 {
+  list-style: square;
+  border: 2px solid red;
+  padding: 0px;
+}
+#list1 li {
+border: 1px dashed black;
+padding: 10px;
+width: 200px;
+margin: 20px;
+display: inline-block;
+}
+
+#testDiv1 {
+  float: right;
+  width: 15%;
+}
+#testDiv2 {
+  float: right;
+  width: 45%;
+}
+#testdiv3 {
+  float:right;
+  width: 15%;
+  font-size: 1em;
+  padding: 1em;
+  margin: 2em;
+}
+
+#testDivPosition {
+  position: absolute;
+  right: 100px
+  bottom: 0px;
+}
